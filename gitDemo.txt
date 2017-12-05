@@ -7,3 +7,4 @@ I have already push this repository to GitHub
 branch test
 creating a new branch is quick and simple
 add merge
+bug branch testing
